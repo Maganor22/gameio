@@ -1,0 +1,30 @@
+{
+    "remotePath": "/var/www/gameio",
+    "host": "51.75.27.148",
+    "username": "ubuntu",
+    "password": "HSjZpFFkwH",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "/node_modules/*",
+        "/cron/backup/*",
+        "/vendor/*"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}

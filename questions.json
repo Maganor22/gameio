@@ -1,0 +1,268 @@
+[
+  {
+      "question": "Quel est le plus grand pays du monde en superficie ?",
+      "options": ["Russie", "Canada", "États-Unis", "Chine"],
+      "correctAnswer": "Russie",
+      "difficulty": "easy",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quelle est la capitale de l'Italie ?",
+      "options": ["Rome", "Madrid", "Paris", "Londres"],
+      "correctAnswer": "Rome",
+      "difficulty": "easy",
+      "category": "Géographie"
+  },
+  {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": ["Victor Hugo", "Emile Zola", "Albert Camus", "Jean-Paul Sartre"],
+      "correctAnswer": "Victor Hugo",
+      "difficulty": "medium",
+      "category": "Littérature"
+  },
+  {
+      "question": "Quelle est la distance entre la Terre et le Soleil en millions de kilomètres ?",
+      "options": ["150 millions", "100 millions", "200 millions", "300 millions"],
+      "correctAnswer": "150 millions",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "En quelle année a eu lieu la bataille de Waterloo ?",
+      "options": ["1812", "1815", "1809", "1820"],
+      "correctAnswer": "1815",
+      "difficulty": "hard",
+      "category": "Histoire"
+  },
+  {
+      "question": "La Terre est plate.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "L'eau bout à 100°C au niveau de la mer.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Vrai",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "Le plomb est un métal léger.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux",
+      "difficulty": "hard",
+      "category": "Science"
+  },
+  {
+      "question": "Qui a peint la Mona Lisa ?",
+      "options": ["Réponse libre : 'Leonardo da Vinci'"],
+      "correctAnswer": "Leonardo da Vinci",
+      "difficulty": "easy",
+      "category": "Art"
+  },
+  {
+      "question": "Quel est le nom du premier homme sur la Lune ?",
+      "options": ["Réponse libre : 'Neil Armstrong'"],
+      "correctAnswer": "Neil Armstrong",
+      "difficulty": "medium",
+      "category": "Histoire"
+  },
+  {
+      "question": "Combien de pays y a-t-il en Europe ?",
+      "options": ["28", "40", "50", "45"],
+      "correctAnswer": "50",
+      "difficulty": "easy",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quelle est la température moyenne de la Terre en degrés Celsius ?",
+      "options": ["14°C", "20°C", "22°C", "10°C"],
+      "correctAnswer": "14°C",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "Quelle est la population estimée de la Chine en 2023 ?",
+      "options": ["1.4 milliard", "1.6 milliard", "1.2 milliard", "1.8 milliard"],
+      "correctAnswer": "1.4 milliard",
+      "difficulty": "hard",
+      "category": "Démographie"
+  },
+  {
+      "question": "Quel est l'élément chimique dont le symbole est O ?",
+      "options": ["Oxygène", "Or", "Ozone", "Osmium"],
+      "correctAnswer": "Oxygène",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "Lequel de ces animaux est un mammifère ?",
+      "options": ["Requin", "Dauphin", "Tortue", "Raie"],
+      "correctAnswer": "Dauphin",
+      "difficulty": "easy",
+      "category": "Biologie"
+  },
+  {
+      "question": "Combien de continents existe-t-il ?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": "7",
+      "difficulty": "easy",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quel est l'élément chimique dont le symbole est Fe ?",
+      "options": ["Fer", "Fluor", "Francium", "Flerovium"],
+      "correctAnswer": "Fer",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "Qui a composé la 9e symphonie ?",
+      "options": ["Beethoven", "Mozart", "Chopin", "Bach"],
+      "correctAnswer": "Beethoven",
+      "difficulty": "medium",
+      "category": "Musique"
+  },
+  {
+      "question": "Combien de couleurs dans l'arc-en-ciel ?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": "7",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "Quel est l'inventeur de l'ampoule électrique ?",
+      "options": ["Thomas Edison", "Nikola Tesla", "Albert Einstein", "Alexander Graham Bell"],
+      "correctAnswer": "Thomas Edison",
+      "difficulty": "medium",
+      "category": "Histoire"
+  },
+  {
+      "question": "Dans quel pays se trouve la ville de Kyoto ?",
+      "options": ["Japon", "Chine", "Corée du Sud", "Inde"],
+      "correctAnswer": "Japon",
+      "difficulty": "easy",
+      "category": "Géographie"
+  },
+  {
+      "question": "En quelle année l'Empire romain a-t-il été fondé ?",
+      "options": ["476", "27 avant JC", "323", "1200"],
+      "correctAnswer": "27 avant JC",
+      "difficulty": "hard",
+      "category": "Histoire"
+  },
+  {
+      "question": "Quel est le plus grand océan de la Terre ?",
+      "options": ["Océan Atlantique", "Océan Pacifique", "Océan Indien", "Océan Arctique"],
+      "correctAnswer": "Océan Pacifique",
+      "difficulty": "easy",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quel est le deuxième plus grand pays du monde en superficie ?",
+      "options": ["Canada", "États-Unis", "Chine", "Brésil"],
+      "correctAnswer": "Canada",
+      "difficulty": "medium",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quelle est la monnaie utilisée au Royaume-Uni ?",
+      "options": ["Euro", "Livre Sterling", "Dollar", "Franc"],
+      "correctAnswer": "Livre Sterling",
+      "difficulty": "easy",
+      "category": "Économie"
+  },
+  {
+      "question": "Qui a écrit '1984' ?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
+      "correctAnswer": "George Orwell",
+      "difficulty": "medium",
+      "category": "Littérature"
+  },
+  {
+      "question": "Qui a découvert la pénicilline ?",
+      "options": ["Louis Pasteur", "Marie Curie", "Alexander Fleming", "Galileo Galilei"],
+      "correctAnswer": "Alexander Fleming",
+      "difficulty": "medium",
+      "category": "Science"
+  },
+  {
+      "question": "Quel est le plus grand désert du monde ?",
+      "options": ["Sahara", "Désert d'Arabie", "Antarctique", "Karakum"],
+      "correctAnswer": "Antarctique",
+      "difficulty": "hard",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quel est le plus long fleuve du monde ?",
+      "options": ["Nil", "Amazone", "Yangzi", "Mississippi"],
+      "correctAnswer": "Nil",
+      "difficulty": "medium",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quel est le plus grand animal terrestre vivant actuellement ?",
+      "options": ["Éléphant d'Afrique", "Girafe", "Rhinocéros", "Hippopotame"],
+      "correctAnswer": "Éléphant d'Afrique",
+      "difficulty": "easy",
+      "category": "Biologie"
+  },
+  {
+      "question": "Quelle est la langue officielle du Brésil ?",
+      "options": ["Espagnol", "Français", "Portugais", "Anglais"],
+      "correctAnswer": "Portugais",
+      "difficulty": "easy",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quand la Première Guerre mondiale a-t-elle commencé ?",
+      "options": ["1912", "1914", "1916", "1918"],
+      "correctAnswer": "1914",
+      "difficulty": "medium",
+      "category": "Histoire"
+  },
+  {
+      "question": "Quel est le nom du plus grand volcan actif du monde ?",
+      "options": ["Vésuve", "Mont Fuji", "Kilauea", "Mont Etna"],
+      "correctAnswer": "Kilauea",
+      "difficulty": "medium",
+      "category": "Géographie"
+  },
+  {
+      "question": "Quelle est la capitale du Canada ?",
+      "options": ["Ottawa", "Toronto", "Vancouver", "Montréal"],
+      "correctAnswer": "Ottawa",
+      "difficulty": "easy",
+      "category": "Géographie"
+  },
+  {
+      "question": "En quelle année la Tour Eiffel a-t-elle été construite ?",
+      "options": ["1887", "1900", "1850", "1920"],
+      "correctAnswer": "1887",
+      "difficulty": "medium",
+      "category": "Histoire"
+  },
+  {
+      "question": "Quel est l'élément chimique dont le symbole est Na ?",
+      "options": ["Azote", "Néon", "Sodium", "Magnésium"],
+      "correctAnswer": "Sodium",
+      "difficulty": "easy",
+      "category": "Science"
+  },
+  {
+      "question": "Quel est l'organe principal du système circulatoire ?",
+      "options": ["Le cerveau", "Le cœur", "Les reins", "Les poumons"],
+      "correctAnswer": "Le cœur",
+      "difficulty": "medium",
+      "category": "Biologie"
+  },
+  {
+      "question": "La Lune est une planète.",
+      "options": ["Vrai", "Faux"],
+      "correctAnswer": "Faux",
+      "difficulty": "easy",
+      "category": "Science"
+  }
+]
